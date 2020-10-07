@@ -1,2 +1,2 @@
 # koa-typescript-framework
-Framework for koa2 in typescript
+Express-like framework for koa2 in typescript
